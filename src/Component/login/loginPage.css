@@ -1,0 +1,14 @@
+.loginMainDiv{
+    width: 99vw;
+    height: 94vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
